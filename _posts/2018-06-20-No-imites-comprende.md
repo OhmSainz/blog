@@ -13,4 +13,4 @@ En fin, poco a poco iremos viendo y analizando lo que JavaScript como lenguaje n
 
 ¡Saludos! (:
 
-![]({{site.baseurl}}/https://i.ytimg.com/vi/wRl7kdM75Tw/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/wRl7kdM75Tw/maxresdefault.jpg)
