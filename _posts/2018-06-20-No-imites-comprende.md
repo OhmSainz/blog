@@ -15,6 +15,6 @@ En fin, poco a poco iremos viendo y analizando lo que JavaScript como lenguaje n
 
 ¡Saludos! (:
 
-![Mr Robot]({{site.baseurl}}/_posts/mr-robot-head.jpg)
+![Mr Robot]({{site.baseurl}}blog/_posts/mr-robot-head.jpg)
 
 
